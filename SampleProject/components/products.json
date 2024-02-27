@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "image": "https://cdn.pixabay.com/photo/2016/04/28/18/39/gears-1359436_1280.png",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 32.5
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "image": "https://cdn.pixabay.com/photo/2017/11/02/10/23/security-2910624_1280.jpg",
+      "details": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "price": 50.25
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "image": "https://cdn.pixabay.com/photo/2017/11/02/10/23/security-2910624_1280.jpg",
+      "details": "Nulla facilisi. Sed auctor risus at finibus tristique.",
+      "price": 100.8
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "image": "https://cdn.pixabay.com/photo/2017/11/02/10/23/security-2910624_1280.jpg",
+      "details": "4 Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 150.25
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "image": "https://cdn.pixabay.com/photo/2016/04/28/18/39/gears-1359436_1280.png",
+      "details": "5 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "price": 50.25
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "image": "https://cdn.pixabay.com/photo/2017/11/02/10/23/security-2910624_1280.jpg",
+      "details": "6 Nulla facilisi. Sed auctor risus at finibus tristique.",
+      "price": 200.2
+    }
+  ]
+  
